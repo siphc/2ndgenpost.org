@@ -1,7 +1,11 @@
 +++
-title = 'About Page'
+title = 'About Us'
 date = 2022-12-01T11:29:55-06:00
 draft = false
+author = "2ndGenPost"
+menu = "main"
+tags = ["website"]
+ShowToc = true
 +++
 
 **Welcome to 2ndGenPost!** Before starting a new article, be sure to follow 2GP’s three basic guidelines:

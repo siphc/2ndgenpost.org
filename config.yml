@@ -1,0 +1,10 @@
+TocOpen: true
+ShowToc: true
+
+sectionPagesMenu: main
+
+params:
+showBreadcrumbs: true
+ mainSections:
+  - posts
+  - projects
