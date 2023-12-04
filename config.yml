@@ -1,10 +1,4 @@
-TocOpen: true
-ShowToc: true
-
-sectionPagesMenu: main
-
 params:
-showBreadcrumbs: true
- mainSections:
-  - posts
-  - projects
+  homeInfoParams:
+    Title: Welcome to 2ndGenPost!
+    Content: Lorum ipsum...

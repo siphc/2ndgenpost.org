@@ -1,5 +1,0 @@
-baseURL = 'https://2ndgenpost.org/'
-languageCode = 'en-us'
-title = '2ndGenPost'
-theme = 'papermod'
-ShowPostNavLinks = true
